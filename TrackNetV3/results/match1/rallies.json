@@ -1,0 +1,81 @@
+{
+  "fps": 30.0,
+  "rallies": [
+    {
+      "start": 2.57,
+      "end": 13.07,
+      "duration": 10.5,
+      "hits": 12,
+      "hit_times": [
+        2.77,
+        3.33,
+        3.8,
+        5.33,
+        6.8,
+        7.23,
+        7.73,
+        8.53,
+        10.33,
+        11.0,
+        12.0,
+        12.77
+      ],
+      "peak_speed": 0.0506,
+      "id": 1
+    },
+    {
+      "start": 20.9,
+      "end": 25.13,
+      "duration": 4.23,
+      "hits": 1,
+      "hit_times": [
+        21.4
+      ],
+      "peak_speed": 0.0828,
+      "id": 2
+    },
+    {
+      "start": 30.93,
+      "end": 36.3,
+      "duration": 5.37,
+      "hits": 1,
+      "hit_times": [
+        33.0
+      ],
+      "peak_speed": 0.1188,
+      "id": 3
+    },
+    {
+      "start": 37.7,
+      "end": 42.3,
+      "duration": 4.6,
+      "hits": 1,
+      "hit_times": [
+        40.7
+      ],
+      "peak_speed": 0.0592,
+      "id": 4
+    },
+    {
+      "start": 46.03,
+      "end": 48.27,
+      "duration": 2.23,
+      "hits": 2,
+      "hit_times": [
+        46.23,
+        46.57
+      ],
+      "peak_speed": 0.0248,
+      "id": 5
+    },
+    {
+      "start": 57.83,
+      "end": 63.13,
+      "duration": 5.3,
+      "hits": 0,
+      "hit_times": [],
+      "peak_speed": 0.0405,
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fps": 30.0,
+  "rallies": [
+    {
+      "id": 1,
+      "start": 26.47,
+      "end": 28.17,
+      "duration": 1.7
+    },
+    {
+      "id": 2,
+      "start": 61.27,
+      "end": 63.57,
+      "duration": 2.3
+    },
+    {
+      "id": 3,
+      "start": 94.53,
+      "end": 96.27,
+      "duration": 1.74
+    },
+    {
+      "id": 4,
+      "start": 107.07,
+      "end": 109.23,
+      "duration": 2.16
+    },
+    {
+      "id": 5,
+      "start": 122.33,
+      "end": 125.33,
+      "duration": 3.0
+    },
+    {
+      "id": 6,
+      "start": 150.5,
+      "end": 158.13,
+      "duration": 7.63
+    },
+    {
+      "id": 7,
+      "start": 173.73,
+      "end": 176.2,
+      "duration": 2.47
+    },
+    {
+      "id": 8,
+      "start": 197.07,
+      "end": 199.0,
+      "duration": 1.93
+    },
+    {
+      "id": 9,
+      "start": 212.43,
+      "end": 219.5,
+      "duration": 7.07
+    },
+    {
+      "id": 10,
+      "start": 232.43,
+      "end": 234.2,
+      "duration": 1.77
+    },
+    {
+      "id": 11,
+      "start": 244.93,
+      "end": 261.0,
+      "duration": 16.07
+    },
+    {
+      "id": 12,
+      "start": 281.07,
+      "end": 284.5,
+      "duration": 3.43
+    },
+    {
+      "id": 13,
+      "start": 350.87,
+      "end": 354.83,
+      "duration": 3.96
+    },
+    {
+      "id": 14,
+      "start": 364.97,
+      "end": 368.23,
+      "duration": 3.26
+    },
+    {
+      "id": 15,
+      "start": 380.67,
+      "end": 384.13,
+      "duration": 3.46
+    },
+    {
+      "id": 16,
+      "start": 393.23,
+      "end": 397.27,
+      "duration": 4.04
+    },
+    {
+      "id": 17,
+      "start": 408.27,
+      "end": 417.07,
+      "duration": 8.8
+    }
+  ]
+}

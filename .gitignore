@@ -1,0 +1,34 @@
+# ---- Videos (too big for GitHub, and personal footage) ----
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.m4v
+*.avi
+*.mkv
+
+# ---- Model weights & trained models (re-downloadable / regenerable) ----
+# TrackNetV3 weights: download link in TrackNetV3/README.md, unzip into TrackNetV3/ckpts/
+TrackNetV3/ckpts/
+*.pt
+*.pth
+*.zip
+*.joblib
+
+# ---- TrackNet outputs (big CSVs + trail videos; regenerate with predict.py) ----
+TrackNetV3/prediction*/
+
+# ---- Scratch outputs in the main folder ----
+TrackNetV3/rallies.json
+TrackNetV3/court.json
+TrackNetV3/runs/
+runs/
+
+# ---- Python / OS / editor ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+.env

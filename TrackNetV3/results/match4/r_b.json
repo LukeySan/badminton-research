@@ -1,0 +1,390 @@
+{
+  "fps": 30.0,
+  "rallies": [
+    {
+      "start": 4.1,
+      "end": 5.83,
+      "duration": 1.73,
+      "hits": 3,
+      "hit_times": [
+        4.13,
+        4.63,
+        5.2
+      ],
+      "peak_speed": 0.0597,
+      "id": 1
+    },
+    {
+      "start": 7.43,
+      "end": 9.17,
+      "duration": 1.73,
+      "hits": 1,
+      "hit_times": [
+        8.73
+      ],
+      "peak_speed": 0.0198,
+      "id": 2
+    },
+    {
+      "start": 12.5,
+      "end": 15.4,
+      "duration": 2.9,
+      "hits": 1,
+      "hit_times": [
+        14.87
+      ],
+      "peak_speed": 0.0117,
+      "id": 3
+    },
+    {
+      "start": 24.67,
+      "end": 27.47,
+      "duration": 2.8,
+      "hits": 0,
+      "hit_times": [],
+      "peak_speed": 0.0294,
+      "id": 4
+    },
+    {
+      "start": 36.5,
+      "end": 39.23,
+      "duration": 2.73,
+      "hits": 1,
+      "hit_times": [
+        37.27
+      ],
+      "peak_speed": 0.0117,
+      "id": 5
+    },
+    {
+      "start": 52.03,
+      "end": 53.7,
+      "duration": 1.67,
+      "hits": 0,
+      "hit_times": [],
+      "peak_speed": 0.0535,
+      "id": 6
+    },
+    {
+      "start": 59.07,
+      "end": 65.1,
+      "duration": 6.03,
+      "hits": 1,
+      "hit_times": [
+        64.53
+      ],
+      "peak_speed": 0.0642,
+      "id": 7
+    },
+    {
+      "start": 73.13,
+      "end": 74.73,
+      "duration": 1.6,
+      "hits": 2,
+      "hit_times": [
+        73.57,
+        74.73
+      ],
+      "peak_speed": 0.0113,
+      "id": 8
+    },
+    {
+      "start": 83.7,
+      "end": 88.6,
+      "duration": 4.9,
+      "hits": 1,
+      "hit_times": [
+        84.2
+      ],
+      "peak_speed": 0.0171,
+      "id": 9
+    },
+    {
+      "start": 94.53,
+      "end": 100.83,
+      "duration": 6.3,
+      "hits": 3,
+      "hit_times": [
+        94.77,
+        95.9,
+        98.03
+      ],
+      "peak_speed": 0.0238,
+      "id": 10
+    },
+    {
+      "start": 107.1,
+      "end": 108.83,
+      "duration": 1.73,
+      "hits": 2,
+      "hit_times": [
+        107.13,
+        107.6
+      ],
+      "peak_speed": 0.0159,
+      "id": 11
+    },
+    {
+      "start": 121.7,
+      "end": 124.77,
+      "duration": 3.07,
+      "hits": 3,
+      "hit_times": [
+        123.23,
+        123.8,
+        124.73
+      ],
+      "peak_speed": 0.0316,
+      "id": 12
+    },
+    {
+      "start": 129.13,
+      "end": 130.73,
+      "duration": 1.6,
+      "hits": 0,
+      "hit_times": [],
+      "peak_speed": 0.016,
+      "id": 13
+    },
+    {
+      "start": 136.3,
+      "end": 138.27,
+      "duration": 1.97,
+      "hits": 2,
+      "hit_times": [
+        136.77,
+        137.33
+      ],
+      "peak_speed": 0.0115,
+      "id": 14
+    },
+    {
+      "start": 150.1,
+      "end": 161.9,
+      "duration": 11.8,
+      "hits": 6,
+      "hit_times": [
+        150.23,
+        150.83,
+        153.77,
+        156.27,
+        157.07,
+        161.43
+      ],
+      "peak_speed": 0.0457,
+      "id": 15
+    },
+    {
+      "start": 170.4,
+      "end": 172.23,
+      "duration": 1.83,
+      "hits": 1,
+      "hit_times": [
+        171.83
+      ],
+      "peak_speed": 0.0213,
+      "id": 16
+    },
+    {
+      "start": 173.33,
+      "end": 176.0,
+      "duration": 2.67,
+      "hits": 1,
+      "hit_times": [
+        175.33
+      ],
+      "peak_speed": 0.0252,
+      "id": 17
+    },
+    {
+      "start": 182.63,
+      "end": 185.6,
+      "duration": 2.97,
+      "hits": 0,
+      "hit_times": [],
+      "peak_speed": 0.0102,
+      "id": 18
+    },
+    {
+      "start": 194.63,
+      "end": 198.7,
+      "duration": 4.07,
+      "hits": 1,
+      "hit_times": [
+        195.87
+      ],
+      "peak_speed": 0.0145,
+      "id": 19
+    },
+    {
+      "start": 203.57,
+      "end": 205.83,
+      "duration": 2.27,
+      "hits": 1,
+      "hit_times": [
+        204.57
+      ],
+      "peak_speed": 0.0126,
+      "id": 20
+    },
+    {
+      "start": 208.97,
+      "end": 218.63,
+      "duration": 9.67,
+      "hits": 5,
+      "hit_times": [
+        211.83,
+        212.5,
+        215.47,
+        216.17,
+        217.67
+      ],
+      "peak_speed": 0.0227,
+      "id": 21
+    },
+    {
+      "start": 222.67,
+      "end": 225.27,
+      "duration": 2.6,
+      "hits": 3,
+      "hit_times": [
+        222.93,
+        223.77,
+        224.7
+      ],
+      "peak_speed": 0.0106,
+      "id": 22
+    },
+    {
+      "start": 235.43,
+      "end": 238.7,
+      "duration": 3.27,
+      "hits": 0,
+      "hit_times": [],
+      "peak_speed": 0.0357,
+      "id": 23
+    },
+    {
+      "start": 244.43,
+      "end": 261.23,
+      "duration": 16.8,
+      "hits": 17,
+      "hit_times": [
+        244.57,
+        245.03,
+        246.07,
+        247.53,
+        249.33,
+        250.17,
+        250.63,
+        252.5,
+        253.2,
+        254.03,
+        255.0,
+        256.23,
+        257.13,
+        257.8,
+        259.0,
+        259.6,
+        261.13
+      ],
+      "peak_speed": 0.1411,
+      "id": 24
+    },
+    {
+      "start": 280.67,
+      "end": 283.8,
+      "duration": 3.13,
+      "hits": 2,
+      "hit_times": [
+        281.93,
+        283.8
+      ],
+      "peak_speed": 0.0346,
+      "id": 25
+    },
+    {
+      "start": 310.1,
+      "end": 311.6,
+      "duration": 1.5,
+      "hits": 1,
+      "hit_times": [
+        311.57
+      ],
+      "peak_speed": 0.0179,
+      "id": 26
+    },
+    {
+      "start": 350.4,
+      "end": 354.4,
+      "duration": 4.0,
+      "hits": 3,
+      "hit_times": [
+        352.1,
+        352.5,
+        353.03
+      ],
+      "peak_speed": 0.0306,
+      "id": 27
+    },
+    {
+      "start": 364.47,
+      "end": 372.0,
+      "duration": 7.53,
+      "hits": 4,
+      "hit_times": [
+        364.87,
+        365.43,
+        365.8,
+        367.43
+      ],
+      "peak_speed": 0.075,
+      "id": 28
+    },
+    {
+      "start": 380.3,
+      "end": 385.9,
+      "duration": 5.6,
+      "hits": 4,
+      "hit_times": [
+        380.8,
+        381.4,
+        381.97,
+        383.53
+      ],
+      "peak_speed": 0.0274,
+      "id": 29
+    },
+    {
+      "start": 392.77,
+      "end": 396.4,
+      "duration": 3.63,
+      "hits": 5,
+      "hit_times": [
+        393.27,
+        393.9,
+        395.17,
+        395.5,
+        396.4
+      ],
+      "peak_speed": 0.0527,
+      "id": 30
+    },
+    {
+      "start": 407.97,
+      "end": 417.33,
+      "duration": 9.37,
+      "hits": 6,
+      "hit_times": [
+        408.1,
+        408.83,
+        411.6,
+        414.27,
+        414.83,
+        416.4
+      ],
+      "peak_speed": 0.1138,
+      "id": 31
+    }
+  ]
+}

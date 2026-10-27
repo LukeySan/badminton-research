@@ -1,0 +1,30 @@
+[
+  {
+    "name": "match1",
+    "csv": "prediction/clipped_vid_ball.csv",
+    "video": "prediction/clipped_vid.mp4",
+    "court": "results/match1/court.json",
+    "labels": "results/match1/labels.csv"
+  },
+  {
+    "name": "match3",
+    "csv": "prediction/clipped3_vid_ball.csv",
+    "video": "prediction/clipped3_vid.mp4",
+    "court": "results/match3/court.json",
+    "labels": "results/match3/labels.csv"
+  },
+  {
+    "name": "match4",
+    "csv": "prediction/match4_720_ball.csv",
+    "video": "prediction/match4_720.mp4",
+    "court": "results/match4/court.json",
+    "labels": "results/match4/labels.csv"
+  },
+  {
+    "name": "match5",
+    "csv": "prediction/match5_720_ball.csv",
+    "video": "prediction/match5_720.mp4",
+    "court": "results/match5/court.json",
+    "labels": "results/match5/labels.csv"
+  }
+]
